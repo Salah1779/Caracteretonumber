@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697197697 source:c:\users\pc\documents\html\convertir un caractere a un nombre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
